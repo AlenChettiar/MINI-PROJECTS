@@ -31,7 +31,7 @@ Here are some of the projects included in this repository:
 
 1. **MINI_GAME**-CLI based game
 2. **Todo List Manager** -Manage your daily tasks efficiently.
-3. **MADLIBS_GAME**-created madlibs game
+3. **HANGMAN_GAME**-created hangman game
 4. **Weather App** - Fetch real-time weather data using an API.
 5. **Cab rental system**-Prototype of car rental system.
 
